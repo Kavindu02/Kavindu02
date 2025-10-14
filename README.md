@@ -1,34 +1,76 @@
-<p align="center"><img src="https://raw.githubusercontent.com/Kavindu02/Kavindu02/master/cover-thompson.png"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/Kavindu02/Kavindu02/master/header.png"></p>
+<div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
+        <p>Loading</p>
+    </div>
+<h1 align="center">Hi👋,I am Kavindu Rathnayaka </h1>
 
-<h1 align="center">Hi,I am Kavindu Rathnayaka </h1>
+<p align="center" width="150px">Passionate IT Student | Exploring the Boundless World of Technology</p>
 
-<p align="center" width="150px"> I have just kickstarted my career as a software developer intern after completing my undergraduation in the year 2021. <br>Soon, I would be joining New York University for Masters' of Computer Science program.</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kavindu02&label=Profile%20views&color=39ff14&style=flat-square" alt="Profile Views" />
+</p>
+<td width="50%" align="center">
+  <div align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250" alt="Right Side GIF"/>
+</div>
+</td>
+<p align="center">
+  🔭 I’m Currently Working on <a href="https://github.com/Kavindu02/KR-MOTORS-FE">KR MOTORS</a><br>
+  🌱 I’m Currently Learning <b>Web Development</b><br>
+  👨‍💻 All of My Projects are Available at <a href="https://kavindu02.github.io/PORTFOLIO/">My Portfolio</a><br>
+  📫 How to Reach Me : <b>kavindurajitha2002@gmail.com</b>
+</p>
+<br>
 
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/%7BKavindu02%7D/count.svg" alt="visitor badge"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavindu02&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=Kavindu02&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p>
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=Kavindu02&theme=chartreuse-dark"></p>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Languages and Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css&logoColor=06B6D4)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=61DAFB)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=47A248)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<div align="center">
+ 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="c" width="50" height="50" style="margin:5px;" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width="50" height="50" style="margin:5px;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="50" height="50" style="margin:5px;" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" width="50" height="50" style="margin:5px;" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS" width="50" height="50" style="margin:5px;" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/Scar1109/icons/TailwindCSS-Light.svg" alt="Tailwind CSS" width="50" height="50" style="margin:5px;" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="React" width="50" height="50" style="margin:5px;" />
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="Node.js" width="50" height="50" style="margin:5px;" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="Express.js" width="50" height="50" style="margin:5px;" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" alt="MongoDB" width="50" height="50" style="margin:5px;" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL" width="50" height="50" style="margin:5px;" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/Figma-Light.svg" alt="Figma" width="50" height="50" style="margin:5px;" />
+
+</div>
 
 
-### :link:  Connect with me
+
+### :link:  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kavindu-rathnayaka-556762311/" target="_blank">
@@ -48,4 +90,4 @@
 
 ---
 
-Credit : [Kavindu02](https://github.com/Kavindu02)
+
