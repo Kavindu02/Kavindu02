@@ -29,8 +29,11 @@
 </p>
 
 
-
-### 🛠 &nbsp;Languages and Tools
+<h2 style="display: flex; align-items: center; gap: 10px; font-size: 26px; font-weight: 600;">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
+       width="30" height="30" alt="Skills Icon">
+  Skills
+</h2>
 
 <div align="center">
  
@@ -78,7 +81,11 @@
 
 
 
-### :link:  Connect With Me
+<h2 style="display: flex; align-items: center; gap: 12px; font-size: 28px; font-weight: 600;">
+  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"
+       width="55" height="55" alt="Handshake Icon">
+  Connect With Me
+</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kavindu-rathnayaka-556762311/" target="_blank">
