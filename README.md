@@ -2,7 +2,8 @@
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
         <p>Loading</p>
     </div>
-<h1 align="center">Hi👋,I am Kavindu Rathnayaka </h1>
+<h1 align="center">Hi..<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I am <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+Kavindu Rathnayaka</a></h1>
 
 <p align="center" width="150px">Passionate IT Student | Exploring the Boundless World of Technology</p>
 
