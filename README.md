@@ -74,15 +74,17 @@ Kavindu Rathnayaka</a></h1>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" alt="PHP" width="50" height="50" style="margin:5px;" />
 </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/Figma-Light.svg" alt="Figma" width="50" height="50" style="margin:5px;" />
-   <a href="https://codeigniter.com/" target="_blank" rel="noreferrer">
+ <a href="https://codeigniter.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" 
        alt="CodeIgniter" width="50" height="50" style="margin:5px;" />
-</a>
+ </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/Figma-Light.svg" alt="Figma" width="50" height="50" style="margin:5px;" />
+          
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman" width="50" height="50" style="margin:5px;" />
 </a>
+
 </div>
 
 <h2 style="display: flex; align-items: center; gap: 12px; font-size: 28px; font-weight: 600;">
