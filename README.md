@@ -16,7 +16,7 @@ Kavindu Rathnayaka</a></h1>
 </div>
 </td>
 <p align="center">
-  🔭 I’m Currently Working on <a href="https://github.com/Kavindu02/KR-MOTORS-FE">KR MOTORS</a><br>
+  🔭 I’m Currently Working on <a href="https://github.com/Kavindu02/KR-MOTORS-FE">Tailor Shop Website</a><br>
   🌱 I’m Currently Learning <b>Web Development</b><br>
   👨‍💻 All of My Projects are Available at <a href="https://kavindu02.github.io/PORTFOLIO/">My Portfolio</a><br>
   📫 How to Reach Me : <b>kavindurajitha2002@gmail.com</b>
