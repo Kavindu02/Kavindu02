@@ -24,8 +24,9 @@ Kavindu Rathnayaka</a></h1>
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavindu02&layout=compact&hide=TSQL&theme=chartreuse-dark&count_private=true&langs_count=10&cache_seconds=60" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavindu02&layout=compact&hide=TSQL&theme=chartreuse-dark&count_private=true&langs_count=10&cache_seconds=1800" />
 </p>
+
 
 
 <p align="center">
