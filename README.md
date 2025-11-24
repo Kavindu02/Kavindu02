@@ -89,6 +89,14 @@ Kavindu Rathnayaka</a></h1>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" alt="Postman" width="50" height="50" style="margin:5px;" />
 </a>
 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" 
+       alt="Python" 
+       width="50" 
+       height="50" 
+       style="margin:5px;" />
+</a>
+
 </div>
 
 <h2 style="display: flex; align-items: center; gap: 12px; font-size: 28px; font-weight: 600;">
