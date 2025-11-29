@@ -63,9 +63,10 @@ Kavindu Rathnayaka</a></h1>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Light.svg" alt="React" width="50" height="50" style="margin:5px;" />
   </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="Node.js" width="50" height="50" style="margin:5px;" />
-  </a>
+ <a href="https://codeigniter.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" 
+       alt="CodeIgniter" width="50" height="50" style="margin:5px;" />
+ </a>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Light.svg" alt="Express.js" width="50" height="50" style="margin:5px;" />
   </a>
@@ -78,10 +79,9 @@ Kavindu Rathnayaka</a></h1>
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Light.svg" alt="PHP" width="50" height="50" style="margin:5px;" />
 </a>
- <a href="https://codeigniter.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain.svg" 
-       alt="CodeIgniter" width="50" height="50" style="margin:5px;" />
- </a>
+ <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="Node.js" width="50" height="50" style="margin:5px;" />
+  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/Scar1109/skill-icons/main/icons/Figma-Light.svg" alt="Figma" width="50" height="50" style="margin:5px;" />
           
