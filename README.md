@@ -121,9 +121,6 @@
     <img src="https://img.shields.io/badge/-Kavindu%20Rathnayaka-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
 </p>
-<div align="center">
-  <sub><b>Made with by Kavindu Rathnayaka</b></sub>
-</div>
 
 ---
 
