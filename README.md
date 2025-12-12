@@ -32,9 +32,7 @@
 <p align="center">
   <img src="https://git-hub-streak-stats.vercel.app/?user=Kavindu02&theme=chartreuse-dark" alt="streak stats"/>
 </p>
-<div align="center">
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kavindu02&bg_color=0d1117&color=00ff41&line=00ff41&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
+
 
 <h2 style="display: flex; align-items: center; gap: 10px; font-size: 26px; font-weight: 600;">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
