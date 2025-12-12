@@ -2,14 +2,18 @@
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
         <p>Loading</p>
     </div>
-<h1 align="center">Hi..<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I am <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
-Kavindu Rathnayaka</a></h1>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Kavindu+Rathnayaka;Software+Engineer+%F0%9F%92%BB;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+</h2>
+
 
 <p align="center" width="150px">Passionate IT Student | Exploring the Boundless World of Technology</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kavindu02&label=Profile%20views&color=39ff14&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kavindu02&label=Profile%20Views&color=00ff41&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Kavindu02?label=Followers&style=for-the-badge&color=00ff41&labelColor=1a1a1a" alt="followers" />
 </p>
+
 <td width="50%" align="center">
   <div align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250" alt="Right Side GIF"/>
@@ -28,7 +32,9 @@ Kavindu Rathnayaka</a></h1>
 <p align="center">
   <img src="https://git-hub-streak-stats.vercel.app/?user=Kavindu02&theme=chartreuse-dark" alt="streak stats"/>
 </p>
-
+<div align="center">
+  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Kavindu02&bg_color=0d1117&color=00ff41&line=00ff41&point=c9d1d9&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
 
 <h2 style="display: flex; align-items: center; gap: 10px; font-size: 26px; font-weight: 600;">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
@@ -115,7 +121,9 @@ Kavindu Rathnayaka</a></h1>
     <img src="https://img.shields.io/badge/-Kavindu%20Rathnayaka-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
 </p>
-
+<div align="center">
+  <sub><b>Made with by Kavindu Rathnayaka</b></sub>
+</div>
 
 ---
 
