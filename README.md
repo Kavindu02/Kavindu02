@@ -11,7 +11,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kavindu02&label=Profile%20Views&color=00ff41&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Kavindu02?label=Followers&style=for-the-badge&color=00ff41&labelColor=1a1a1a" alt="followers" />
+  <img src="https://img.shields.io/github/followers/Kavindu02?label=Followers&style=for-the-badge&color=00ff41" alt="followers" />
+
 </p>
 
 <td width="50%" align="center">
