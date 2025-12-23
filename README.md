@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0f3d2e&height=200&section=header&text=Kavindu%20Rathnayaka&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+</div>
+
 <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
         <p>Loading</p>
@@ -122,6 +126,8 @@
   </a>
 </p>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0f3d2e&height=100&section=footer" />
+</div>
 
 
