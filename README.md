@@ -112,17 +112,17 @@
 </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kavindu-rathnayaka-556762311/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Kavindu%20Rathnayaka-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/kavindu-rathnayaka-556762311/">
+    <img src="https://img.shields.io/badge/LinkedIn-Kavindu%20Rathnayaka-00ff41?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
   <a href="mailto:kavindurajitha2002@gmail.com">
-    <img src="https://img.shields.io/badge/-kavindurajitha2002@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact-00ff41?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
   <a href="https://www.instagram.com/kavindu.r.r/?hl=en">
-    <img src="https://img.shields.io/badge/-kavindu.r.r-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-kavindu.r.r-00ff41?style=for-the-badge&logo=instagram&logoColor=black"/>
   </a>
   <a href="https://www.facebook.com/kavindu.r.r">
-    <img src="https://img.shields.io/badge/-Kavindu%20Rathnayaka-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Facebook-Kavindu%20Rathnayaka-00ff41?style=for-the-badge&logo=facebook&logoColor=black"/>
   </a>
 </p>
 
