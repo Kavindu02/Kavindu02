@@ -31,12 +31,17 @@
   📫 How to Reach Me : <b>kavindurajitha2002@gmail.com</b>
 </p>
 <br>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavindu02&layout=compact&theme=chartreuse-dark&count_private=true&cache_seconds=60" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavindu02&layout=compact&theme=chartreuse-dark&count_private=true" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://git-hub-streak-stats.vercel.app/?user=Kavindu02&theme=chartreuse-dark" alt="streak stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/?username=Kavindu02&show_icons=true&theme=chartreuse-dark&count_private=true" alt="Kavindu's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavindu02&theme=chartreuse-dark" alt="GitHub Streak" />
 </p>
 
 
