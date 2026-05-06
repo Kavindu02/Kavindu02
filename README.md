@@ -105,9 +105,9 @@
 
 </div>
 
-<h2 style="display: flex; align-items: center; gap: 12px; font-size: 28px; font-weight: 600;">
+<h2 style="display: flex; align-items: center; gap: 10px; font-size: 24px; font-weight: 600;">
   <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"
-       width="55" height="55" alt="Handshake Icon">
+       width="35" height="35" alt="Handshake Icon">
   Connect With Me
 </h2>
 
